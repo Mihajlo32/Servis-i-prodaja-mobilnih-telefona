@@ -345,4 +345,7 @@
    .concat-body {
     height: auto;
   }
+  .concat-body{
+    height: 100vh;
+  }
 }
