@@ -104,6 +104,10 @@
   .logo {
     width: 6.4rem;
   }
+  .background-img {
+    height: 90vh;
+    margin-bottom: 1.2rem;
+  }
   .grid--3--cols {
     grid-template-columns: 1fr;
     row-gap: 3.2rem;
