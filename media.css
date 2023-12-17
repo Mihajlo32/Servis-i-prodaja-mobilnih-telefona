@@ -343,6 +343,6 @@
     display: none;
   }
    .concat-body {
-    height: 100vh;
+    height: auto;
   }
 }
