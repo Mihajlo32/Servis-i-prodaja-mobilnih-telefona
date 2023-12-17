@@ -1,0 +1,338 @@
+@media screen and (min-width: 48rem) and (max-width: 64rem) {
+  header {
+    padding: 1.4rem;
+  }
+  .btn:link,
+  .btn:visited {
+    padding: 1rem 2rem;
+    font-size: 1.4rem;
+  }
+  .logo {
+    width: 6.4rem;
+  }
+
+  .background-img {
+    height: 90vh;
+    margin-bottom: 2.4rem;
+  }
+  .primary-header {
+    font-size: 4.8rem;
+  }
+  .hero-text {
+    font-size: 1.6rem;
+    padding: 1.2rem;
+  }
+  .service-header {
+    font-size: 3rem;
+    margin-bottom: 3.2rem;
+  }
+  .secundary-header {
+    font-size: 2.4rem;
+  }
+  .service-P {
+    font-size: 1.4rem;
+    margin-bottom: 3.2rem;
+  }
+  .more-info:link,
+  .more-info:visited {
+    font-size: 1.4rem;
+    padding: 1rem 2rem;
+  }
+  .pre-header {
+    font-size: 1.2rem;
+  }
+  .card {
+    width: 80%;
+  }
+  .card-img {
+    margin-bottom: 1.8rem;
+  }
+  .card-header {
+    font-size: 1.6rem;
+    padding-left: 1.2rem;
+  }
+  .card-text {
+    font-size: 1.4rem;
+    /* text-align: center; */
+    padding-left: 1.2rem;
+    margin-bottom: 1.8rem;
+  }
+  .btn-product:link,
+  .btn-product:visited {
+    padding: 1.4rem 0;
+    font-size: 1.4rem;
+  }
+  .center {
+    margin-bottom: 1.8rem;
+  }
+  .footer-header {
+    color: #fff;
+    font-size: 3.2rem;
+  }
+  .card-1::after {
+    padding: 0.8rem 1.5rem;
+    /* transform: rotate(45deg); */
+  }
+  .about-us {
+    margin-top: 6rem;
+    padding: 2.4rem 2.4rem 1.2rem 2.4rem;
+  }
+  .secundary-header {
+    margin-bottom: 1rem;
+  }
+  .box-text {
+    padding: 2.4rem;
+  }
+  .text {
+    font-size: 1.4rem;
+    line-height: 1.4;
+  }
+  .meet-us-header {
+    padding: 2.4rem 2.4rem 1.2rem 2.4rem;
+  }
+  .team1 {
+    width: 80%;
+
+    justify-self: center;
+  }
+  .user {
+    width: 5.4rem;
+    height: 5.4rem;
+  }
+}
+@media screen and (min-width: 20rem) and (max-width: 26.6rem) {
+  .logo {
+    width: 6.4rem;
+  }
+  .grid--3--cols {
+    grid-template-columns: 1fr;
+    row-gap: 3.2rem;
+  }
+  /* .sea:rch {
+    display none;
+  } */
+  .grid--2--cols {
+    grid-template-columns: 1fr;
+    row-gap: 3.2rem;
+  }
+  .grid--4--cols {
+    grid-template-columns: 1fr;
+    row-gap: 2.4rem;
+  }
+  .navlist {
+    gap: 2rem;
+  }
+
+  .list-item {
+    font-size: 1.2rem;
+  }
+
+  .primary-header {
+    font-size: 2.4rem;
+  }
+  .hero-text {
+    font-size: 1.4rem;
+  }
+
+  .btn:link,
+  .btn:visited {
+    font-size: 1.4rem;
+    padding: 1rem 1.5rem;
+  }
+  .btn--1.btn:link,
+  .btn--1.btn:visited {
+    display: none;
+  }
+  .pre-header {
+    font-size: 1rem;
+    /* text-align: center; */
+  }
+  .service-header {
+    font-size: 2.4rem;
+    margin-bottom: 2.4rem;
+    /* text-align: left; */
+  }
+  .about-us-header {
+    text-align: center;
+  }
+  hr {
+    display: none;
+  }
+  .secundary-header {
+    font-size: 2rem;
+    /* text-align: center; */
+  }
+  .service-P {
+    font-size: 1.4rem;
+    line-height: 1.4;
+    text-align: center;
+  }
+  .service-pt1 {
+    background-image: linear-gradient(90deg, #ffffff9f, #ffffff9f),
+      url(img/img1.jpg);
+    padding: 2.4rem;
+  }
+  .service-img {
+    display: none;
+  }
+  .service-pt2 {
+    background-image: linear-gradient(90deg, #ffffff9f, #ffffff9f),
+      url(img/img2.jpg);
+    padding: 2.4rem;
+  }
+  .more-info:link,
+  .more-info:visited {
+    font-size: 1.4rem;
+    padding: 1rem 1.5rem;
+  }
+  .mobile-header {
+    font-size: 2.4rem;
+  }
+  .card {
+    width: 24rem;
+  }
+  .card-img {
+    margin-bottom: 1.2rem;
+  }
+  .card-header {
+    font-size: 1.6rem;
+    margin-bottom: 0.8rem;
+  }
+  .card-text {
+    font-size: 1.4rem;
+    margin-bottom: 1.6rem;
+  }
+  .btn-product:link,
+  .btn-product:visited {
+    font-size: 1.4rem;
+    padding: 1.2rem;
+  }
+  .card-1::after {
+    font-size: 1rem;
+
+    padding: 0.8rem 1.5rem;
+    /* transform: rotate(45deg); */
+  }
+  .supp-img {
+    grid-template-columns: 1fr;
+    row-gap: 3.2rem;
+  }
+  .svg-img {
+    width: 25%;
+  }
+  .footer-header {
+    font-size: 2.4rem;
+  }
+  .search {
+    padding: 1rem 1.5rem;
+  }
+  .footer-btn {
+    padding: 0.8rem 1.2rem;
+  }
+  .footer-content {
+    padding-top: 2rem;
+  }
+  .help {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 2.4rem;
+  }
+  .footer-list {
+    text-align: center;
+  }
+  .footer-list li {
+    margin: 1.2rem;
+  }
+  .about-us {
+    margin-top: 4rem;
+    padding: 2.4rem 2.4rem 1.2rem 2.4rem;
+    height: auto;
+  }
+  .about-us-content {
+    padding: 0;
+  }
+  .box-img {
+    background-image: linear-gradient(90deg, #ffffffa9, #ffffffa9),
+      url(img/aboutus.jpg);
+  }
+  .box-text {
+    padding-bottom: 0;
+  }
+  .text {
+    text-align: center;
+    font-size: 1.2rem;
+  }
+  .meet-us-header {
+    margin-top: -2rem;
+    margin-bottom: 0;
+    text-align: center;
+  }
+  .meet-us-content {
+    text-align: center;
+  }
+  .team1 {
+    width: 24rem;
+
+    margin-bottom: 1.4rem;
+  }
+  .img-1 {
+    margin-bottom: 1.8rem;
+    width: 22rem;
+    height: 32rem;
+  }
+  .third-header {
+    font-size: 1.6rem;
+    margin-bottom: 1rem;
+  }
+  .users {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: -2.5rem;
+    margin-bottom: 4.4rem;
+  }
+  .user {
+    width: 4.8rem;
+    height: 4.8rem;
+  }
+
+  .flex {
+    display: block;
+    justify-content: center;
+    align-items: center;
+  }
+  .concat-us {
+    /* background-color: rgb(111, 204, 248); */
+    padding: 1.6rem 3.2rem;
+    width: 30rem;
+    margin: 1rem auto;
+    border-radius: 2.4rem;
+  }
+  .concat-header {
+    font-size: 2.8rem;
+    color: #fff;
+  }
+  .conact-head {
+    margin-bottom: 1.6rem;
+  }
+  .concat-text {
+    font-size: 1.2rem;
+    margin-bottom: 1.2rem;
+    color: #fff;
+  }
+  .concat-flex {
+    display: block;
+  }
+  .username,
+  .user-email {
+    padding: 1.2rem;
+    width: 100%;
+  }
+  .username {
+    margin-bottom: 1.2rem;
+  }
+  .phone-icon {
+    display: none;
+  }
+}
