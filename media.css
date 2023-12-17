@@ -175,6 +175,7 @@
     background-image: linear-gradient(90deg, #ffffff9f, #ffffff9f),
       url(img/img1.jpg);
     padding: 2.4rem;
+    background-size: cover;
   }
   .service-img {
     display: none;
@@ -183,6 +184,7 @@
     background-image: linear-gradient(90deg, #ffffff9f, #ffffff9f),
       url(img/img2.jpg);
     padding: 2.4rem;
+    background-size:cover;
   }
   .more-info:link,
   .more-info:visited {
