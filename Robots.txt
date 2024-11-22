@@ -1,0 +1,4 @@
+User-agent:*
+Disallow:
+
+sitemap:https://mihajlo32.github.io/Servis-i-prodaja-mobilnih-telefona/sitemap.xml
